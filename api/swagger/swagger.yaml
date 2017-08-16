@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  version: "1.8.0"
+  title: CRUD-API
+host: localhost:3000
+basePath: /
+schemes:
+  "-http
+consumes:
+  -application/json
+produces:
+  -application/json
+paths:
